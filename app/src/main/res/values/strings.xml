@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sandor</string>
+    <string name="record_area">RECORD AREA</string>
+    <string name="record">RECORD</string>
+    <string name="play_area">PLAY AREA</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="stop_record">STOP RECORD</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="test">Test</string>
+</resources>
